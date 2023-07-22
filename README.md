@@ -1,4 +1,4 @@
 # fastaisetup
 A short setup for fastai
 
-A walkthrough of git setup
+Hi this is a  walkthrough of git setup
